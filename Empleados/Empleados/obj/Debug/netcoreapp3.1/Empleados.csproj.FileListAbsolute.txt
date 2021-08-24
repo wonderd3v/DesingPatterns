@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.exe
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.deps.json
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.runtimeconfig.json
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.dll
+C:\Users\Usuario\source\repos\Empleados\Empleados\bin\Debug\netcoreapp3.1\Empleados.pdb
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.dll
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.pdb
+C:\Users\Usuario\source\repos\Empleados\Empleados\obj\Debug\netcoreapp3.1\Empleados.genruntimeconfig.cache

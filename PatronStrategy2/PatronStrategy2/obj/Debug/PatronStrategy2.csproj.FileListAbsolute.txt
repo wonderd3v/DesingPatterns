@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\bin\Debug\PatronStrategy2.exe.config
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\bin\Debug\PatronStrategy2.exe
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\bin\Debug\PatronStrategy2.pdb
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\obj\Debug\PatronStrategy2.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\obj\Debug\PatronStrategy2.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\obj\Debug\PatronStrategy2.exe
+C:\Users\johan\source\repos\PatronStrategy2\PatronStrategy2\obj\Debug\PatronStrategy2.pdb
